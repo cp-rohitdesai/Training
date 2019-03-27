@@ -44,3 +44,4 @@ ER kilmashogue lane
 >>>>>>> ceaec4f9f760ef99ee94d0324893257fbc5abf9b
 
 This is a test for merge function
+Test is another test for merge
