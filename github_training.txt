@@ -1,13 +1,8 @@
 First line for adding comments in github
-<<<<<<< HEAD
 Hi this is Emmett
-=======
 Progress
 Commenting first line 
 Adding a line to further pushing changes
-<<<<<<< HEAD
 Team going well.
-=======
 Comment for 4th line merge
->>>>>>> d2ee15b636bab12ea02c2e37d87d7779fea0fadc
->>>>>>> a3b4282cf952ed28b8e80b1a9c8fbec2c1e5796e
+
