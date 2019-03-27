@@ -13,7 +13,11 @@ Coming
 Soon
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+duplicate avenger
+>>>>>>> fbe4a11c4c4d4fe3fd01a0fc79e2a1289b85cef2
 =======
 Happy to learn GCP
 Good SEssion
@@ -21,8 +25,12 @@ Good Knowlegde sharing
 Git HUB
 
 >>>>>>> refs/remotes/origin/master
+<<<<<<< HEAD
 Game of Thrones
 Season 8
 Winter has come
 Who will sit on the Throne?
 (Jon Snow)
+=======
+
+>>>>>>> fbe4a11c4c4d4fe3fd01a0fc79e2a1289b85cef2
