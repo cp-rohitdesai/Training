@@ -7,18 +7,19 @@ Team going well.
 Comment for 4th line merge
 Latest comment for pushing via SOURCETREE/GITHUB UI
 
-Avengers
-End Game
-Coming 
-Soon
+Avengers--sp
+End Game--sp
+Coming--sp 
+Soon--sp
 
-<<<<<<< HEAD
-duplicate avenger
-=======
+Ant Man--sp 
+Coming in--sp
+End Game--sp
+
 Happy to learn GCP
 Good SEssion
 Good Knowlegde sharing
 Git HUB
 
->>>>>>> refs/remotes/origin/master
+
 
