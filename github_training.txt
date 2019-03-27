@@ -5,4 +5,5 @@ Commenting first line
 Adding a line to further pushing changes
 Team going well.
 Comment for 4th line merge
+Latest comment for pushing via SOURCETREE/GITHUB UI
 
