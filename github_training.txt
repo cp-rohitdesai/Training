@@ -1,3 +1,8 @@
 First line for adding comments in github
+<<<<<<< HEAD
 
 Progress
+=======
+Commenting first line 
+Adding a line to further pushing changes
+>>>>>>> b98856bb46bf04baf03e09d4e10be271a75ebd89
