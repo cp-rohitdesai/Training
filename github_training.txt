@@ -52,6 +52,9 @@ ER kilmashogue lane
 This is a test for merge function
 Test is another test for merge
 
+
+New line for raising a PR request in GitHub
+
 Suchita Patere
 assignment given 
 trial 2
@@ -69,3 +72,6 @@ trail 5
 Testing hopefully I can access training repository once
 
 
+New line for raising PR request - Request 2
+
+ERSP1 merge test
