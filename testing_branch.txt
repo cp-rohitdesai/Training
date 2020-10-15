@@ -1,1 +1,2 @@
 Final test of merge function
+Checking for edit and commit
